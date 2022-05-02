@@ -3,4 +3,4 @@
 SELECT FirstName,
     LastName
 FROM Customers
-ORDER BY LastName ASC; -- ASC means that will order from A to Z
+ORDER BY LastName ASC; -- ASC means that will order from A to Z; or DESC for Z to A
