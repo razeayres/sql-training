@@ -8,3 +8,13 @@ This repository holds my training .sql files. I created while attending a series
 * [Advanced SQL: Logical Query Processing, Part 2](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/)
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]()  [<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">]()
+
+###  Notes
+*Query processing order:
+1. ```FROM```
+2. ```WHERE```
+3. ```GROUP BY```
+4. ```HAVING```
+5. ```SELECT```
+6. ```ORDER BY```
+7. ```OFFSET``` and ```FETCH```
