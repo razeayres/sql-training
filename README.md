@@ -5,5 +5,6 @@ This repository holds my training .sql files. I created while attending a series
 * [Programming Foundations: Databases](https://www.linkedin.com/learning/programming-foundations-databases-2/)
 * [SQL Essential Training](https://www.linkedin.com/learning/sql-essential-training-3/)
 * [Advanced SQL: Logical Query Processing, Part 1](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/)
+* [Advanced SQL: Logical Query Processing, Part 2](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/)
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]()  [<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">]()
