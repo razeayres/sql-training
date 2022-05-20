@@ -10,7 +10,7 @@ This repository holds my training .sql files. I created while attending a series
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]()  [<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">]()
 
 ###  Notes
-*Query processing order:
+* Query processing order:
 1. ```FROM```
 2. ```WHERE```
 3. ```GROUP BY```
