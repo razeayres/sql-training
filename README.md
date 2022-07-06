@@ -7,6 +7,7 @@ This repository holds my training .sql files. I created while attending a series
 * [Advanced SQL: Logical Query Processing, Part 1](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1/)
 * [Advanced SQL: Logical Query Processing, Part 2](https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2/)
 * [Advanced SQL – Window Functions](https://www.linkedin.com/learning/advanced-sql-window-functions)
+* [Advanced SQL for Data Science: Time Series](https://www.linkedin.com/learning/advanced-sql-for-data-science-time-series/examples-of-time-series-data)
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]()  [<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">]()
 
